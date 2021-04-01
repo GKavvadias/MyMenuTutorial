@@ -1,0 +1,7 @@
+C:\Users\Αλευρά Γεωργία\source\repos\MyMenuTutorialRIGHT\MyMenuTutorialRIGHT\bin\Debug\MyMenuTutorialRIGHT.exe.config
+C:\Users\Αλευρά Γεωργία\source\repos\MyMenuTutorialRIGHT\MyMenuTutorialRIGHT\bin\Debug\MyMenuTutorialRIGHT.exe
+C:\Users\Αλευρά Γεωργία\source\repos\MyMenuTutorialRIGHT\MyMenuTutorialRIGHT\bin\Debug\MyMenuTutorialRIGHT.pdb
+C:\Users\Αλευρά Γεωργία\source\repos\MyMenuTutorialRIGHT\MyMenuTutorialRIGHT\obj\Debug\MyMenuTutorialRIGHT.csprojAssemblyReference.cache
+C:\Users\Αλευρά Γεωργία\source\repos\MyMenuTutorialRIGHT\MyMenuTutorialRIGHT\obj\Debug\MyMenuTutorialRIGHT.csproj.CoreCompileInputs.cache
+C:\Users\Αλευρά Γεωργία\source\repos\MyMenuTutorialRIGHT\MyMenuTutorialRIGHT\obj\Debug\MyMenuTutorialRIGHT.exe
+C:\Users\Αλευρά Γεωργία\source\repos\MyMenuTutorialRIGHT\MyMenuTutorialRIGHT\obj\Debug\MyMenuTutorialRIGHT.pdb
